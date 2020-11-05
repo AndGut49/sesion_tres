@@ -1,7 +1,23 @@
+body{
+    background-color: gainsboro;
+}
 .main-container {
     width: 100;
     font-family: sans-serif;
 }
 h1 {
     color: darkorange;
+}
+.container-section-promo{
+    
+    display: flex;
+    width: 70%;
+    margin-top: 100px auto;
+    height: 100px;
+    background-color: darkviolet;
+    align-items: center;
+}
+
+.item-article{
+
 }
